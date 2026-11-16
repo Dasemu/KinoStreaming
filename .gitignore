@@ -1,0 +1,6 @@
+# Downloaded build tools (RPMs, cmake, innoextract, Inno Setup sources, sysroot): regenerable
+herramientas/
+# Scratch output of the extractor
+extracted/tmp/
+# Private key bundled by the app: never published
+extracted/app/credentials/cakey.pem
